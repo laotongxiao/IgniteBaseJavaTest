@@ -12,7 +12,7 @@
     <artifactId>ignite-cache-operation-mode-example</artifactId>
 
     <properties>
-        <ignite.version>2.6.0</ignite.version>
+        <ignite.version>2.8.1</ignite.version>
     </properties>
 
     <dependencies>
